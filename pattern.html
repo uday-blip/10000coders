@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>pattern validation in html </h2>
+    <form action="./all28.html">
+    <fieldset>
+        <legend>password validation</legend>
+        <label for="passoword">password</label>
+        <input type="password"
+        placeholder="enter atleast 8 characters"
+        id="passoword"
+        minlength="8"
+        maxlength="16"
+        pattern="(?=.*[a-zA-Z])(?=.*[0-9])(?=.*[!@#$%^&*]).{8,16}"
+        required
+        >
+        <input type="submit">
+    </fieldset>
+    </form>
+    
+</body>
+</html>
