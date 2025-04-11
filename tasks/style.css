@@ -1,0 +1,74 @@
+.supra{
+    width: 300px;
+    background-color: skyblue;
+    color:aliceblue;
+    padding: 10px;
+    margin:20px;
+    border: 5px solid black;
+    display: inline-block;
+
+}
+.gtr{
+    width:300px;
+    background-color: grey;
+    color: black;
+    padding: 10px;
+    margin:20px;
+    border:5px solid greenyellow;
+    display: inline-block;
+
+}
+.merc{
+    width:300px;
+    background-color: azure;
+    color:red;
+    padding:10px;
+    margin:20px;
+    border:5px solid cornflowerblue;
+    display: inline-block;
+}
+.shelby{
+    width:300px;
+    background-color:aqua;
+    color:rgb(44, 22, 22);
+    padding:10px;
+    margin:20px;
+    border:5px solid rgb(36, 2, 2);
+    display: inline-block;
+}
+.m5{
+    width:300px;
+    background-color:yellow;
+    color:rgb(44, 22, 22);
+    padding:10px;
+    margin:20px;
+    border:5px solid rgb(220, 214, 214);
+    display: inline-block;
+}
+.lancer{
+    width:300px;
+    background-color:yellowgreen;
+    color:rgb(44, 22, 22);
+    padding:10px;
+    margin:20px;
+    border:5px solid rgb(10, 6, 49);
+    display: inline-block;
+}
+.bentely{
+    width:300px;
+    background-color:rgb(128, 255, 0);
+    color:rgb(44, 22, 22);
+    padding:10px;
+    margin:20px;
+    border:5px solid rgb(142, 68, 68);
+    display: inline-block;
+}
+.maclaren{
+    width:300px;
+    background-color:rgb(255, 0, 64);
+    color:rgb(251, 246, 246);
+    padding:10px;
+    margin:20px;
+    border:5px solid rgb(32, 4, 4);
+    display: inline-block;
+}
