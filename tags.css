@@ -1,0 +1,63 @@
+body{
+    background-color:lightpink;
+}
+.a{
+    color: darkred;
+}
+.b{
+    color:black;
+}
+.c{
+    color:rgb(59, 12, 142);
+}  
+.d{
+    color:blue;
+} 
+.e{
+    color:darkgreen;
+} 
+.f{
+    color:darkviolet;
+}
+.g{
+    color:cadetblue;
+}
+.h{
+    color:coral;
+}
+.i{
+    color:darkslategray;
+}
+.j{
+    color:deeppink;
+}
+.k{
+    color:indigo;
+}
+.l{
+    color:lime;
+}
+.m{
+    color:darkblue;
+}
+.n{
+    color:cadetblue;
+}
+.o{
+    color:aquamarine;
+}
+.p{
+    color:darksalmon;
+}
+.q{
+    color:green
+}
+.r{
+    color:midnightblue;
+}
+.s{
+    color:yellow;
+}
+.t{
+    color:rgb(150, 8, 150);
+}
